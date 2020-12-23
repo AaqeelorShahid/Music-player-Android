@@ -1,0 +1,3 @@
+include ':dsa'
+include ':app'
+rootProject.name = "Z Music Player"
